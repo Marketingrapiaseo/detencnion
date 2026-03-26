@@ -751,6 +751,7 @@ nav:
               - axelera: reference/nn/backends/axelera.md
               - base: reference/nn/backends/base.md
               - coreml: reference/nn/backends/coreml.md
+              - deepx: reference/nn/backends/deepx.md
               - executorch: reference/nn/backends/executorch.md
               - mnn: reference/nn/backends/mnn.md
               - ncnn: reference/nn/backends/ncnn.md
@@ -826,6 +827,7 @@ nav:
           - errors: reference/utils/errors.md
           - events: reference/utils/events.md
           - export:
+              - deepx: reference/utils/export/deepx.md
               - engine: reference/utils/export/engine.md
               - executorch: reference/utils/export/executorch.md
               - imx: reference/utils/export/imx.md
